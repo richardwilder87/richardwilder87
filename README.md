@@ -23,13 +23,13 @@ Built a full blue team lab environment to simulate attacks and develop detection
 **Lab Architecture**
 
 Attacker Simulation
-↓
+
 Windows Endpoint + Sysmon
-↓
+
 Wazuh SIEM/XDR
-↓
+
 Detection Rules
-↓
+
 SOC Investigation
 
 
