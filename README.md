@@ -1,91 +1,113 @@
-## Hi, I'm Richard 👋
+<div align="center">
 
-Cybersecurity Engineer focused on endpoint security, detection engineering, and threat hunting.  
+# 👋 Hi, I'm Richard
+
+### Cybersecurity Engineer | Detection Engineering | Threat Hunting
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=24&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Detection+Engineering+Labs;Threat+Hunting+Research;Blue+Team+Security)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+# 🛡️ About Me
+
+Cybersecurity engineer focused on **endpoint security, detection engineering, and threat hunting**.
+
 I build hands-on security labs that simulate real-world attacks and develop detections mapped to the MITRE ATT&CK framework.
 
----
+My work focuses on:
 
-## 🛡️ About Me
-
-• Cybersecurity professional specializing in endpoint security and detection engineering  
-• Experience supporting enterprise and government environments  
-• Passionate about blue team operations, SIEM engineering, and threat hunting  
-• Building cybersecurity labs to simulate real-world attacks and improve detection capabilities  
+• Endpoint detection engineering  
+• SIEM analysis and threat hunting  
+• SOC investigation workflows  
+• Adversary simulation and attack detection  
 
 ---
 
-## 🔬 Featured Project
+# 🔬 Featured Project
 
-### Detection Engineering Lab
+## Detection Engineering Lab
 
-Built a full blue team lab environment to simulate attacks and develop detections.
+A blue team cyber range designed to simulate attacker behavior and develop real-world detection rules.
 
-**Lab Architecture**
+### Lab Architecture
 
 Attacker Simulation
-
-Windows Endpoint + Sysmon
-
-Wazuh SIEM/XDR
-
-Detection Rules
-
+Windows Endpoint (Sysmon Telemetry)
+SIEM / XDR Platform
+Detection Engineering
 SOC Investigation
+Incident Report
 
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
-- SIEM Engineering  
-- Threat Detection  
-- MITRE ATT&CK Mapping  
-- Incident Investigation  
-- Endpoint Telemetry Analysis  
-
----
-
-## ⚙️ Technologies & Tools
-
-### Security Platforms
-
-- Wazuh SIEM / XDR
-- Elastic Stack
-- Endpoint Detection & Response
-- SIEM Detection Engineering
-
-### Operating Systems
-
-- Windows
-- Linux
-- Ubuntu Server
-
-### Cybersecurity Frameworks
-
-- MITRE ATT&CK
-- NIST Security Framework
-- Incident Response Lifecycle
+✔ Detection Engineering  
+✔ Threat Hunting  
+✔ SIEM Investigation  
+✔ Endpoint Telemetry Analysis  
+✔ MITRE ATT&CK Mapping  
 
 ---
 
-## 🧪 Current Projects
+# ⚙️ Technologies & Tools
 
-• Detection Engineering Lab  
-• Threat Hunting Playbooks  
-• SOC Investigation Scenarios  
-• Cybersecurity Research Projects  
+## Security Platforms
+
+![SIEM](https://img.shields.io/badge/SIEM-Detection%20Engineering-blue)
+![EDR](https://img.shields.io/badge/Endpoint%20Security-EDR-red)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-SOC-green)
+
+## Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)
+
+## Cybersecurity Frameworks
+
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-orange)
+![NIST](https://img.shields.io/badge/NIST-Security%20Framework-blue)
 
 ---
 
-## 📚 Certifications
+# 🧪 Current Projects
 
-- CISSP (Certified Information Systems Security Professional)
+| Project | Description |
+|------|-------------|
+Detection Engineering Lab | Simulating adversary techniques and building detections |
+Threat Hunting Playbooks | Investigation workflows for SOC analysts |
+SOC Investigation Scenarios | Real-world blue team incident response cases |
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+
+---
+
+# 📚 Certifications
+
+• CISSP — Certified Information Systems Security Professional  
+
+---
+
+# 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/richard-wilder-4a205696/  
-Medium: https://medium.com/@richiewilder87
+Medium: https://medium.com/@richiewilder87  
 
 ---
 
-⚡ Always learning, always building.
+# ⚡ Cybersecurity Philosophy
+
+> Detect early.  
+> Investigate deeply.  
+> Improve continuously.
