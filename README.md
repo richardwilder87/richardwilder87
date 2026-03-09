@@ -87,7 +87,7 @@ SOC Investigation Scenarios | Real-world blue team incident response cases |
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardwilder87&show_icons=true&theme=tokyonight)
 
 ---
 
