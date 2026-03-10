@@ -99,7 +99,12 @@ SOC Investigation Scenarios | Real-world blue team incident response cases |
 
 # 📚 Certifications
 
-• CISSP — Certified Information Systems Security Professional  
+<p align="left">
+  <img src="https://img.shields.io/badge/Certification-CISSP-005BBB?style=for-the-badge&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-SecurityX-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
 
 ---
 
